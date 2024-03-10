@@ -1,0 +1,16 @@
+﻿Dados do aluno
+
+-Primeiro Nome: Fausia Gracieth Gilberto
+-Profissão: Engenheira de Dados
+-Cidade: Maputo
+-O que faz nas horas vaga: leio livros, aperfeicoo minhas tecninas na cozinha,exploro outras areas e principalmente artes manuais.
+-Feedback sobre a disciplina Teste e Qualidade de Software: uma disciplina 
+oferece uma abordagem abrangente e informativa sobre os princípios fundamentais
+ e as práticas atuais relacionadas ao teste e à qualidade de software.
+-Feedback sobre a metodologia das aulas da disciplina:As aulas sao conduzidas
+ de forma dinâmica e interativa, com a combinação da parte teórica, estudos
+ de caso e exercícios práticos. Isso proporciona uma experiência de aprendizagem
+ envolvente.
+Obrigado!!!
+
+
